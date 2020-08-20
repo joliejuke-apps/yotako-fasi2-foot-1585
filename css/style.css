@@ -1,0 +1,59 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.web19201row0 {
+  display: flex;
+  margin-left: 5vw;
+  margin-top: 9.25925925925926vh;
+  width: 90vw
+}
+.style1,
+.style2 {
+  border-left: .05vw solid #000;
+  border-right: .05vw solid #000;
+  border-top: .05vw solid #000;
+  border-bottom: .05vw solid #000;
+  width: 12.5vw;
+  height: 12.5vw
+}
+.style1 {
+  margin-left: 0;
+  background-color: red;
+  z-index: 0
+}
+.style2 {
+  background-color: #00f;
+  margin-left: 65vw;
+  z-index: 1
+}
+.web19201row1 {
+  display: flex;
+  margin-left: 5vw;
+  margin-top: 305.55555555555554vh;
+  width: 90vw
+}
+.style3,
+.style4 {
+  border-left: .05vw solid #000;
+  border-right: .05vw solid #000;
+  border-top: .05vw solid #000;
+  border-bottom: .05vw solid #000;
+  width: 12.5vw;
+  height: 12.5vw
+}
+.style3 {
+  margin-left: 0;
+  background-color: #0f0;
+  z-index: 2
+}
+.style4 {
+  background-color: #f0f;
+  margin-left: 65vw;
+  z-index: 3
+}
+.breakpoint-0 {
+  display: block
+}
